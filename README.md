@@ -1,4 +1,7 @@
+![banner](https://github.com/user-attachments/assets/c5a5cd59-0930-4a6a-85ba-5c7be0c0288c)
+
 <h1 align="center">Hi 👋, I'm Ajith G</h1>
+
 <h3 align="center">A passionate AI ML and frontend developer from India</h3>
 <br>
 
