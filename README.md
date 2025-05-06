@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajith-ajay&label=Profile%20views&color=0e75b6&style=flat" alt="ajith-ajay" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajith-ajay" alt="ajith-ajay" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ajith-ajay&theme=onedark" alt="ajith-ajay" />
+  </a>
+</p>
+
 
 - 🌱 I’m currently learning **Python for data science**
 
