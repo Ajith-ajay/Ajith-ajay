@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ajithajay1029@gmail.com**
 
-- 📄 Know about my experiences [Touch to see my CV](https://myprotfoliostu.web.app/assets/cv-Bfbsb4sa.pdf)
+- 📄 Know about my experiences [Touch to see my CV](https://myprotfoliostu.web.app/Resume.pdf)
 
 - ⚡ Fun fact **I Think I am Funny**
 
