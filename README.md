@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://myprotfoliostu.web.app/](https://myprotfoliostu.web.app/)
 
-- 💬 Ask me about **React and ML Model Training**
+- 💬 Ask me about **React and ML Model Training Chatbot Training**
 
 - 📫 How to reach me **ajithajay1029@gmail.com**
 
