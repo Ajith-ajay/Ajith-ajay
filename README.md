@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python for data science**
 
-- 👨‍💻 All of my projects are available at [https://myprotfoliostu.web.app/](https://myprotfoliostu.web.app/)
+- 👨‍💻 All of my projects are available at [https://ajithcoder-portfolio.web.app/](https://ajithcoder-portfolio.web.app/)
 
 - 💬 Ask me about **React and ML Model Training Chatbot Training**
 
