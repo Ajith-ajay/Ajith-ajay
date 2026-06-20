@@ -165,9 +165,11 @@ C / C++      ██████████░░░░░░░░░░  50% �
 ## `$ wakatime --weekly-report`
 
 <!--START_SECTION:waka-->
-```text
-Waiting for WakaTime data... (see SETUP_GUIDE.md Step 4)
+
+```txt
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 ---
