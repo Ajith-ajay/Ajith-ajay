@@ -288,11 +288,13 @@ No activity tracked
 
 ## `$ traceroute --activities`
 
+<div align="center">
+
 [![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajith-ajay&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ![Metrics](https://metrics.lecoq.io/ajith-ajay?template=classic&base.header=0&languages=1&habits=1&config.timezone=Asia%2FKolkata)
 
-![Visitor Count](https://profile-counter.glitch.me/ajith-ajay/count.svg)
+</div>
 
 <!-- <div align="center">
 
@@ -335,7 +337,13 @@ No activity tracked
 ╚══════════════════════════════════════════════════╝
 ```
 
+<div align="center">
+
+![Visitors](https://vbr.nathanchung.dev/badge?page_id=ajith-ajay.ajith-ajay&color=58a6ff&logo=github&style=for-the-badge&label=VISITORS)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ajith-ajay&color=58a6ff&style=flat-square&label=profile+views)
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f3a5f,100:0d1117&height=120&section=footer" />
 
