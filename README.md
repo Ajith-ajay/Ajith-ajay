@@ -286,9 +286,15 @@ No activity tracked
 <!-- Setup: See SETUP_GUIDE.md Step 9                       -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## `$ traceroute --visitors`
+## `$ traceroute --activities`
 
-<div align="center">
+[![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajith-ajay&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+![Metrics](https://metrics.lecoq.io/ajith-ajay?template=classic&base.header=0&languages=1&habits=1&config.timezone=Asia%2FKolkata)
+
+![Visitor Count](https://profile-counter.glitch.me/ajith-ajay/count.svg)
+
+<!-- <div align="center">
 
 <a href="https://clustrmaps.com/site/YOUR_SITE_ID" title="Visit tracker">
   <img src="https://clustrmaps.com/map_v2.png?d=YOUR_SITE_ID&cl=ffffff&w=500&t=n&co=0d1117&ct=58a6ff" alt="Visitor Map" />
@@ -296,7 +302,7 @@ No activity tracked
 
 </div>
 
----
+--- -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--               CODING PROFILES                          -->
