@@ -231,7 +231,7 @@ No activity tracked
 ## `$ git log --all --oneline -5`
 
 <!--START_SECTION:activity-->
-1. ⏳ Waiting for first activity sync... (see SETUP_GUIDE.md Step 7)
+...
 <!--END_SECTION:activity-->
 
 ---
@@ -247,9 +247,9 @@ No activity tracked
 
 [![Spotify](https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=false)](https://spotify-github-profile.kittinan.dev/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
 
-</div> -->
+</div> 
 
----
+--- -->
 
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--              RANDOM DEV QUOTE                          -->
