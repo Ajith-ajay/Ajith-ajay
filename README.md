@@ -88,7 +88,7 @@ drwxr-xr-x  📊  Data Visualization & Analysis
 Python       ████████████████████  95% ██ Expert
 JavaScript   ███████████████████░  90% ██ Advanced
 React        ████████████████░░░░  80% ██ Advanced
-Java         ███████████████░░░░░  75% ██ Advanced
+Java         ███████████████████░  85% ██ Advanced
 TensorFlow   ██████████████░░░░░░  70% ██ Intermediate
 PyTorch      █████████████░░░░░░░  65% ██ Intermediate
 Flutter      ████████████░░░░░░░░  60% ██ Intermediate
