@@ -167,7 +167,11 @@ C / C++      ██████████░░░░░░░░░░  50% �
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     22 mins               ███████████▒░░░░░░░░░░░░░   44.81 %
+Git Config   15 mins               ███████▓░░░░░░░░░░░░░░░░░   30.91 %
+JSON         11 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+YAML         0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+TypeScript   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
