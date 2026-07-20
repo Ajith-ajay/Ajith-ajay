@@ -167,7 +167,8 @@ C / C++      ██████████░░░░░░░░░░  50% �
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java   11 mins               █████████████████████▒░░░   85.77 %
+XML    1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.23 %
 ```
 
 <!--END_SECTION:waka-->
