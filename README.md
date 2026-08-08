@@ -236,7 +236,7 @@ JSON         0 secs                ▒░░░░░░░░░░░░░░
 ## `$ git log --all --oneline -5`
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#644](https://github.com/Web-Developer-VEC/VEC_Web_Engine/pull/644) in [Web-Developer-VEC/VEC_Web_Engine](https://github.com/Web-Developer-VEC/VEC_Web_Engine)
+1. 🎉 Merged PR [#3](https://github.com/Ajith-ajay/codejudge-pro/pull/3) in [Ajith-ajay/codejudge-pro](https://github.com/Ajith-ajay/codejudge-pro)
 <!--END_SECTION:activity-->
 
 ---
