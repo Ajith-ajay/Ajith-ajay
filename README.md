@@ -231,7 +231,7 @@ No activity tracked
 ## `$ git log --all --oneline -5`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Ajith-ajay/codejudge-pro/pull/5) in [Ajith-ajay/codejudge-pro](https://github.com/Ajith-ajay/codejudge-pro)
+1. 🎉 Merged PR [#6](https://github.com/Ajith-ajay/codejudge-pro/pull/6) in [Ajith-ajay/codejudge-pro](https://github.com/Ajith-ajay/codejudge-pro)
 <!--END_SECTION:activity-->
 
 ---
