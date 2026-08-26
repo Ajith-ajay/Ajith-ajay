@@ -167,7 +167,9 @@ C / C++      ██████████░░░░░░░░░░  50% �
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Text     18 mins               █████████████░░░░░░░░░░░░   51.38 %
+Python   17 mins               ████████████░░░░░░░░░░░░░   48.57 %
+Other    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
