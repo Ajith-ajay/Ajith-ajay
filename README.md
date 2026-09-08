@@ -167,9 +167,7 @@ C / C++      ██████████░░░░░░░░░░  50% �
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin     30 mins               ██████████████▓░░░░░░░░░░   59.00 %
-XML        17 mins               ████████▒░░░░░░░░░░░░░░░░   33.50 %
-Markdown   3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
