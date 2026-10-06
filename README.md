@@ -24,7 +24,7 @@
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-<h1>Hey there, I'm Ajith G 👋</h1>
+<h1>Hey there, I'm Ajith G. 👋</h1>
 
 <p>
   <em>Building intelligent systems by day, debugging mysterious bugs by night —<br>and yes, I still think I'm funny.</em>
