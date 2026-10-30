@@ -20,7 +20,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║                   ~/ajith-ajay $ who am i ~               ║
-║   > Ajith G — AI & ML Engineer · Frontend Dev · Builder   ║
+║   > Ajith G — AI & ML Engineer · Frontend Developer       ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
