@@ -10,7 +10,9 @@ jobs:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - id: waka
+        continue-on-error: true
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -20,3 +22,6 @@ jobs:
           LANG_COUNT: 10
           COMMIT_BY_ME: true
           COMMIT_MESSAGE: "⚡ Update WakaTime stats"
+      - name: Warn when WakaTime API is unavailable
+        if: ${{ steps.waka.outcome == 'failure' }}
+        run: echo "::warning::WakaTime API request failed (for example due to an invalid or expired WAKATIME_API_KEY). README stats were not updated in this run."
