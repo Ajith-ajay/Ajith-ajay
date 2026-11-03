@@ -17,6 +17,6 @@ jobs:
           BLOCKS: ░▒▓█
           TIME_RANGE: last_7_days
           SHOW_TIME: true
-          LANG_COUNT: 8
+          LANG_COUNT: 10
           COMMIT_BY_ME: true
           COMMIT_MESSAGE: "⚡ Update WakaTime stats"
