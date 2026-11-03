@@ -194,7 +194,7 @@ XML               8 mins                ▒░░░░░░░░░░░░�
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=ajith-ajay&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3" />
+  <img src="./profile/streak.svg" alt="GitHub Contribution Streak" />
 
 </div>
 
