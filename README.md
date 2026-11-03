@@ -189,8 +189,8 @@ XML               8 mins                ▒░░░░░░░░░░░░�
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ajith-ajay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajith-ajay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+<img height="160" src="./profile/stats.svg" />
+<img height="160" src="./profile/top-langs.svg" />
 
 <br><br>
 
