@@ -37,13 +37,20 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
+      
+      - name: Generate GitHub Streak
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=ajith-ajay&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add profile/stats.svg profile/top-langs.svg
+          git add profile/stats.svg profile/top-langs.svg profile/streak.svg
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
