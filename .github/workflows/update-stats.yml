@@ -41,7 +41,7 @@ jobs:
       - name: Generate GitHub Streak
         uses: DenverCoder1/github-readme-streak-stats@v1
         with:
-          options: user=ajith-ajay&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&disable_animations=true
+          options: user=ajith-ajay&theme=dark&timezone=Asia/Kolkata&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&disable_animations=true
           path: profile/streak.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
