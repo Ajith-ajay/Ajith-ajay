@@ -238,7 +238,7 @@ XML               8 mins                ▒░░░░░░░░░░░░�
 ## `$ git log --all --oneline -5`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Ajith-ajay/smart-chit-system/pull/16) in [Ajith-ajay/smart-chit-system](https://github.com/Ajith-ajay/smart-chit-system)
+1. 🎉 Merged PR [#18](https://github.com/Ajith-ajay/smart-chit-system/pull/18) in [Ajith-ajay/smart-chit-system](https://github.com/Ajith-ajay/smart-chit-system)
 <!--END_SECTION:activity-->
 
 ---
