@@ -238,7 +238,7 @@ XML               8 mins                ▒░░░░░░░░░░░░�
 ## `$ git log --all --oneline -5`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Ajith-ajay/smart-chit-system/pull/18) in [Ajith-ajay/smart-chit-system](https://github.com/Ajith-ajay/smart-chit-system)
+1. 🎉 Merged PR [#13](https://github.com/Ajith-ajay/EduWatch-Smart-AI-Classroom-System/pull/13) in [Ajith-ajay/EduWatch-Smart-AI-Classroom-System](https://github.com/Ajith-ajay/EduWatch-Smart-AI-Classroom-System)
 <!--END_SECTION:activity-->
 
 ---
