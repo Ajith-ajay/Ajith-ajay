@@ -238,7 +238,7 @@ XML               8 mins                ▒░░░░░░░░░░░░�
 ## `$ git log --all --oneline -5`
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/VYCKET/project_web/pull/73) in [VYCKET/project_web](https://github.com/VYCKET/project_web)
+1. 🎉 Merged PR [#13](https://github.com/Ajith-ajay/EduWatch-Smart-AI-Classroom-System/pull/13) in [Ajith-ajay/EduWatch-Smart-AI-Classroom-System](https://github.com/Ajith-ajay/EduWatch-Smart-AI-Classroom-System)
 <!--END_SECTION:activity-->
 
 ---
